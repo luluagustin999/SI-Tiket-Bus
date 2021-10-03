@@ -1,0 +1,16 @@
+Cara Penggunaan
+1. Extract seluruh file
+2. import database db_bus.sql dengan nama database yang sama(db_bus)
+3. pindahkan seluruh folder yang telah di extract ke C:\xampp\htdocs
+
+untuk membukanya
+
+Guest : localhost/tiketbus/
+Admin : localhost/tiketbus/login
+
+username : admin
+password : admin
+
+
+Catatan :
+Sebelum Memesan Lihat Terlebih dahulu pada Jadwal 
